@@ -18,7 +18,9 @@ Fluxus est un mouvement avant-gardiste international qui a émergé dans les ann
 
 Fluxus trouve ses racines dans les mouvements d’avant-garde du début du XXe siècle, notamment Dada et le Surréalisme, partageant avec eux une rébellion contre les conventions artistiques et culturelles. Fondé par George Maciunas, Fluxus a été fortement influencé par les idées de John Cage sur le hasard dans la composition musicale, ainsi que par les concepts d’art conceptuel et de performance développés par Marcel Duchamp. Fluxus s’est nourri notamment des Happenings d’Allan Kaprow et a quelquefois embrassé la philosophie Zen dans sa quête de simplicité et d’immédiateté.
 
-Le mouvement a établi des dialogues avec l’Art Conceptuel, en insistant sur l’idée et le processus plutôt que sur l’objet d’art fini, et le Minimalisme, bien que son approche soit plus ludique et moins formelle. La relation de Fluxus avec ces mouvements contemporains et antérieurs réside dans sa capacité à fusionner l’art et la vie, tout en défiant les hiérarchies artistiques et culturelles établies.
+
+
+>Le mouvement a établi des dialogues avec l’Art Conceptuel, en insistant sur l’idée et le processus plutôt que sur l’objet d’art fini, et le Minimalisme, bien que son approche soit plus ludique et moins formelle. La relation de Fluxus avec ces mouvements contemporains et antérieurs réside dans sa capacité à fusionner l’art et la vie, tout en défiant les hiérarchies artistiques et culturelles établies.
 
 *Le mouvement Fluxus, caractérisé par son approche interdisciplinaire et expérimentale de l’art, ne possède pas de fondateur unique au sens traditionnel. Cependant, George Maciunas est souvent considéré comme le principal instigateur et organisateur de Fluxus, jouant un rôle clé dans la formalisation et la promotion du mouvement dès le début des années 1960.*
 
