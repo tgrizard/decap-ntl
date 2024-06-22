@@ -8,9 +8,7 @@ title = "Kaldi"
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
-[[plugins]]
-  # runs Cypress tests against the deployed URL
-  package = "netlify-plugin-cypress"
+
 
 [params]
 images = ["img/og-image.jpg"]
